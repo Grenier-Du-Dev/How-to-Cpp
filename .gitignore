@@ -30,4 +30,4 @@
 *.exe
 *.out
 *.app
-basic_pointers
+./basic_pointers
